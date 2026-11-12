@@ -1,0 +1,4 @@
+beautifulsoup4>=4.12,<5
+ddgs>=9,<10
+mcp>=1.9,<2
+

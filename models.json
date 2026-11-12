@@ -1,0 +1,24 @@
+{
+  "original": {
+    "repository": "ggml-org/Qwen3.8-27B-GGUF",
+    "revision": "cc54a8a3955ee1a099011952d0ef2eab24a7eab3",
+    "filename": "Qwen3.8-27B-Q4_K_M.gguf",
+    "size": 18973870528,
+    "sha256": "c600de0300ae8a0eb3a6c0b8b5561b8b96f16bd2c863c2a66c42de29d391a747"
+  },
+  "abliterated": {
+    "repository": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+    "revision": "5dd3ce6c4803ed24526aad0af70613add13a7ea8",
+    "filename": "Huihui-Qwen3.8-27B-abliterated-Q4_K.gguf",
+    "size": 16810714400,
+    "sha256": "6c2c13cef89238c3604d756b07b3ef5fafebbd61095feb8553ff449c95e4c1c6"
+  },
+  "vision": {
+    "repository": "unsloth/Qwen3.8-27B-GGUF",
+    "revision": "4ca720788d1e01f1bff70c033e0d0028fd02e502",
+    "filename": "mmproj-BF16.gguf",
+    "size": 931146432,
+    "sha256": "83ee4f4f205fa514161778c41df1ea14144faa0f713510893b63c2395f5c2d53"
+  }
+}
+
